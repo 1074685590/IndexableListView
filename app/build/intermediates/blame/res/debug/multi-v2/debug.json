@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AndroidWorkSpace\\two\\IndexableListView\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\AndroidWorkSpace\\two\\IndexableListView\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "132,57",
+                        "endColumns": "54,73",
+                        "endOffsets": "182,126"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,73",
+                        "endOffsets": "105,179"
+                    }
+                }
+            ]
+        }
+    ]
+}
